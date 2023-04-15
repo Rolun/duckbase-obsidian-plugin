@@ -1,0 +1,11 @@
+{
+	"id": "duckbase-obsidian-plugin",
+	"name": "Duckbase Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This lets Duckbase keep track of all your Obsidian data.",
+	"author": "Duckbase",
+	"authorUrl": "https://duckbase.io",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
