@@ -30,7 +30,7 @@ export default class MyPlugin extends Plugin {
 		// });
 		// // Perform additional things with the ribbon
 		// ribbonIconEl.addClass('my-plugin-ribbon-class');
-		const ribbonIconEl = this.addRibbonIcon('dice', 'Send all notes to my app', () => {
+		const ribbonIconEl = this.addRibbonIcon('open-vault', 'Send all notes to Duckbase', () => {
 			this.sendAllNotesToMyApp();
 		  });
 
